@@ -1,0 +1,23 @@
+{
+  "name": "express-mongodb-grpahql-poc",
+  "version": "1.0.0",
+  "description": "This is a poc small web-app running mongodb and graphql poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "graphql",
+    "express"
+  ],
+  "author": "Harish Vijayakumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.1.0",
+    "graphql-type-json": "^0.3.2",
+    "mongoose": "^5.9.19"
+  }
+}
